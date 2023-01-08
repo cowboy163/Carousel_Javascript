@@ -1,3 +1,9 @@
+/*
+ * Author: Frank Jia
+ * Title: carousel
+ * Date: 2022-08-30
+ */
+
 const imgs = [
     "https://mobilecontent.costco.com/live/resource/img/ca-homepage/d-hero-220829-apple-watch-en.jpg",
     "https://mobilecontent.costco.com/live/resource/img/ca-homepage/d-hero-220228-whs-pickup-en.jpg",
